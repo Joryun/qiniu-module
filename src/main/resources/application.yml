@@ -1,0 +1,10 @@
+joryun:
+  module:
+    qiniu:
+      bucket: joryun-qiniu
+      access-key: gFyrVJvhvMxJkSj4S6FmGXNClofcIljMK04qpnn_
+      secret-key: cXSZcRGv_8QV3EpJS8pIPk-HGzIDv5vdMM4TBpbS
+      link-address: http://osnwk5h1c.bkt.clouddn.com/
+
+server:
+  port: 9099
