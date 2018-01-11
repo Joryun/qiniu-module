@@ -85,12 +85,12 @@
     <distributionManagement>
         <repository>
             <id>releases</id>
-            <url>http://116.62.113.4:7003/nexus/content/repositories/releases</url>
+            <url>http://120.79.184.90:7003/nexus/content/repositories/releases</url>
         </repository>
 
         <snapshotRepository>
             <id>snapshots</id>
-            <url>http://116.62.113.4:7003/nexus/content/repositories/snapshots</url>
+            <url>http://120.79.184.90:7003/nexus/content/repositories/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
